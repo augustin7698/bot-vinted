@@ -15,5 +15,22 @@
         },
         "active": false,
         "urls": []
+    },
+    "1086964065299087462": {
+        "accountAllowed": [
+            576778833341054978,
+            694526888529625091
+        ],
+        "keepDataTime": 1209600,
+        "stepForNotification": {
+            "favorite": 5,
+            "view_count": 10
+        },
+        "notifMax": {
+            "added": 15,
+            "modified": 10
+        },
+        "active": false,
+        "urls": []
     }
 }
