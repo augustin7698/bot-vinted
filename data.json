@@ -30,7 +30,7 @@
             "added": 15,
             "modified": 10
         },
-        "active": false,
+        "active": true,
         "urls": []
     }
 }
